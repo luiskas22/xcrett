@@ -1,0 +1,30 @@
+
+    .text-danger {
+        --bs-text-opacity: 1;
+        color: rgb(241 0 23) !important;
+    }
+
+    .bg-dark {
+        --bs-bg-opacity: 1;
+        background-color: rgb(6 6 6) !important;
+    }
+
+    .bg-secondary {
+        --bs-bg-opacity: 1;
+        background-color: rgb(6 6 6) !important;
+    }
+
+    .text-muted {
+        --bs-text-opacity: 1;
+        color: rgb(255, 255, 255) !important;
+    }
+
+    .font-bebas {
+        font-family: 'Bebas Neue', sans-serif;
+        letter-spacing: 1px;
+    }
+
+    .bg-danger {
+        --bs-bg-opacity: 1;
+        background-color: rgb(241 0 23) !important;
+    }
