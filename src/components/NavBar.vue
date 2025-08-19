@@ -31,6 +31,11 @@
             </router-link>
           </li>
           <li class="nav-item">
+            <router-link to="/renting" class="nav-link text-danger fw-bold" active-class="active-link">
+              Renting
+            </router-link>
+          </li>
+          <li class="nav-item">
             <router-link to="/contacto" class="nav-link text-danger fw-bold" active-class="active-link">
               Contacto
             </router-link>
@@ -54,7 +59,6 @@
     align-items: center;
     position: relative;
     font-size: large;
-
   }
 
   .navbar-brand {
